@@ -1,0 +1,35 @@
+{
+  "name": "black-tie-giftcards",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fontsource/oswald": "^5.0.18",
+    "@fontsource/poppins": "^5.0.8",
+    "@heroicons/react": "^2.1.1",
+    "@nextui-org/react": "^2.2.9",
+    "axios": "^1.6.3",
+    "framer-motion": "^10.16.16",
+    "js-cookie": "^3.0.5",
+    "next": "^14.0.4",
+    "nodemailer": "^6.9.8",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.49.2",
+    "react-icons": "^4.12.0",
+    "react-paypal-button-v2": "^2.6.3",
+    "zustand": "^4.4.7"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
